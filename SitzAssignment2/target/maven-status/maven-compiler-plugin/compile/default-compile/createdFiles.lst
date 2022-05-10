@@ -1,0 +1,8 @@
+LinkedList\exception\ListEmptyException.class
+library\Magazine.class
+LinkedList\exception\InvalidMagazineException.class
+library\Library.class
+LinkedList\Node.class
+library\LibraryManagement.class
+LinkedList\LinkedList.class
+LinkedList\exception\ListException.class
